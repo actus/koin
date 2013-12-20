@@ -1,5 +1,9 @@
 koin
 
+Satoshi Nakamoto의 Bitcoin: A Peer-to-Peer Electronic Cash System 자료 한글 번역 링크
+
+http://actus.kr/kr/koin/bitcoin-translation.pdf
+
 
 Bitcoin Core integration/staging tree
 =====================================
