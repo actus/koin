@@ -6,7 +6,7 @@ http://actus.kr/kr/koin/bitcoin-translation.pdf
 
 
 스위스 대안화폐 자료 링크 : WRI와 스위스 국민 경제
-http://actus.kr/kr/koin/WIR%EC%99%80%20%EC%8A%A4%EC%9C%84%EC%8A%A4%20%EA%B5%AD%EB%AF%BC%EA%B2%BD%EC%A0%9C.pdf
+http://actus.kr/kr/koin/WIR.pdf
 
 Bitcoin Core integration/staging tree
 =====================================
