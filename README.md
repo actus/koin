@@ -5,6 +5,9 @@ Satoshi Nakamoto의 Bitcoin: A Peer-to-Peer Electronic Cash System 자료 한글
 http://actus.kr/kr/koin/bitcoin-translation.pdf
 
 
+스위스 대안화폐 자료 링크 : WRI와 스위스 국민 경제
+http://actus.kr/kr/koin/WIR.pdf
+
 Bitcoin Core integration/staging tree
 =====================================
 
